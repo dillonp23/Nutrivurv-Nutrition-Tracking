@@ -16,8 +16,6 @@
 
 ## Project Overview
 
-You can find the deployed project at [Lambda School Labs PT11 - Nutrition Tracker iOS](https://github.com/Lambda-School-Labs/nutrition-tracker-ios-pt7).
-
 [Trello Board](https://trello.com/b/9EYWw5vc/labs-pt11-nutrivurv)
 
 [Product Canvas](https://www.notion.so/c4360fe71b3b42a4a0f8bfe4cada23c5?v=67fa7c6f21494ac5b0d82d8975349830)
