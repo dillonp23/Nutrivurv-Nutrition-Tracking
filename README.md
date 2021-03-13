@@ -6,7 +6,6 @@
 
 | [Michael Stoffer](https://github.com/michaelstoffer) |
 | :-----------------------------------------------------------------------------------------------------------: |
-| [<img src="https://en.gravatar.com/userimage/179915898/d9ea45c101c6dc4fd135449bfbc73b0d.jpeg" width = "200" />](https://github.com/michaelstoffer) |
 | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/michaelstoffer) |
 | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/michaelstoffer/) |
 
