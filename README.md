@@ -2,14 +2,8 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/0e5b8dd23796c3a6b8d4/maintainability)](https://codeclimate.com/github/Lambda-School-Labs/nutrition-tracker-ios-pt7/maintainability)
 
-## Contributors Labs PT 7
+## Contributors (Lambda Labs)
 
-| [Michael Stoffer](https://github.com/michaelstoffer) |
-| :-----------------------------------------------------------------------------------------------------------: |
-| [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/michaelstoffer) |
-| [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/michaelstoffer/) |
-
-## Labs PT 11
 | [Dillon Petretti](https://github.com/dillonp23) |
 | :-----------------------------------------------------------------------------------------------------------: |
 | [<img src="https://avatars.githubusercontent.com/u/52013691?s=460&u=ffc5d554546f417bc3cf4ce0d5aa979da6561808&v=4" width = "200" />](https://github.com/dillonp23) |
