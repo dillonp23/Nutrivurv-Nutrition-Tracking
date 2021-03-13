@@ -13,7 +13,7 @@
 ## Labs PT 11
 | [Dillon Petretti](https://github.com/dillonp23) |
 | :-----------------------------------------------------------------------------------------------------------: |
-| [<img src="https://media-exp1.licdn.com/dms/image/C5603AQFtuUwHJIaoAw/profile-displayphoto-shrink_400_400/0?e=1600300800&v=beta&t=zXVmYQI4omM401Y2uDx-hcWnjWm7Iq9VPdHFrsn-v3c" width = "200" />](https://github.com/dillonp23) |
+| [<img src="https://avatars.githubusercontent.com/u/52013691?s=460&u=ffc5d554546f417bc3cf4ce0d5aa979da6561808&v=4" width = "200" />](https://github.com/dillonp23) |
 | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/dillonp23) |
 | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/ios-dillon/) |
 
