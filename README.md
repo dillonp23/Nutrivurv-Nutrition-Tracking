@@ -2,7 +2,7 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/0e5b8dd23796c3a6b8d4/maintainability)](https://codeclimate.com/github/Lambda-School-Labs/nutrition-tracker-ios-pt7/maintainability)
 
-## Contributors (Lambda Labs)
+## Contributors
 
 | [Dillon Petretti](https://github.com/dillonp23) |
 | :-----------------------------------------------------------------------------------------------------------: |
@@ -35,21 +35,13 @@ You can find the deployed project at [Lambda School Labs PT11 - Nutrition Tracke
 ## Requirements
 
 -   iOS 13.2+
--   Xcode 11.3.1
+-   Xcode 11.3.1+
 
 ## Contributing
 
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
 
 Please note we have a [code of conduct](./CODE_OF_CONDUCT.md). Please follow it in all your interactions with the project.
-
-### Issue/Bug Request
-
-    ## Contributing
-
-When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
-
-Please note we have a [code of conduct](./code_of_conduct.md). Please follow it in all your interactions with the project.
 
 ### Issue/Bug Request
 
@@ -79,11 +71,8 @@ Remember that this project is licensed under the MIT license, and by submitting 
 
 ### Attribution
 
-These contribution guidelines have been adapted from [this good-Contributing.md-template](https://gist.github.com/PurpleBooth/b24679402957c63ec426).
+These contribution guidelines have been adapted from [this](https://gist.github.com/PurpleBooth/b24679402957c63ec426) template .
 
-## Documentation
-
-See [Backend Documentation](_link to your backend readme here_) for details on the backend of our project.
 
 [swift-image]: https://img.shields.io/badge/swift-5.0-blue.svg
 [swift-url]: https://swift.org/
