@@ -69,7 +69,7 @@ Remember that this project is licensed under the MIT license, and by submitting 
 
 ### Attribution
 
-These contribution guidelines have been adapted from [this](https://gist.github.com/PurpleBooth/b24679402957c63ec426) template .
+These contribution guidelines have been adapted from [this](https://gist.github.com/PurpleBooth/b24679402957c63ec426) template.
 
 
 [swift-image]: https://img.shields.io/badge/swift-5.0-blue.svg
