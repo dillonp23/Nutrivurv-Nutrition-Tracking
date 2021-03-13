@@ -39,7 +39,7 @@
 
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
 
-Please note we have a [code of conduct](./CODE_OF_CONDUCT.md). Please follow it in all your interactions with the project.
+Please note we have a [code of conduct](https://github.com/dillonp23/Nutrivurv-Nutrition-Tracking/blob/521828ce84df764814e582087577fab41dababa6/code_of_conduct.md). Please follow it in all your interactions with the project.
 
 ### Issue/Bug Request
 
