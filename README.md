@@ -1,7 +1,5 @@
 # Nutrivurv Nutrition Tracker - iOS
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/0e5b8dd23796c3a6b8d4/maintainability)](https://codeclimate.com/github/Lambda-School-Labs/nutrition-tracker-ios-pt7/maintainability)
-
 ## Contributors
 
 | [Dillon Petretti](https://github.com/dillonp23) |
